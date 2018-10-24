@@ -10,6 +10,7 @@ class Header extends Component {
           <h1>
             Famous People App
           </h1>
+          <p>By famous person: Dicky P</p>
         </header>
     );
   }
